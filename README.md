@@ -4,7 +4,7 @@ This repository contains the coding chanllenges for candidates to solve. Includi
 
 # NOTICE
 
-1. Please fork this repository and create a pull request when you are done. We will review your code and get back to you. All these git operations are part of the chanllenges.
+1. Please fork this repository and **create a pull request** when you are done. We will review your code and get back to you. All these git operations are part of the chanllenges.
 
 2. Candidates must take at least 2 C# chanllenges and 2 JavaScript chanllenges. Think creatively and expand upon their code for the programming challenges would be considered a plus.
 
