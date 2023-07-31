@@ -4,7 +4,7 @@ This repository contains the coding chanllenges for candidates to solve. Includi
 
 # NOTICE
 
-<img src="images/pullrequest.jpg" width="400" >
+<img src="images/pullrequest.gif" >
 
 1. Please fork this repository and **create a pull request** when you are done. We will review your code and get back to you. All these git operations are part of the chanllenges.
 
