@@ -1,0 +1,15 @@
+/Users/akashramjeevanandham/Desktop/exams/csharp/TestApp/obj/Debug/net9.0/TestApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashramjeevanandham/Desktop/exams/csharp/TestApp/obj/Debug/net9.0/TestApp.AssemblyInfoInputs.cache
+/Users/akashramjeevanandham/Desktop/exams/csharp/TestApp/obj/Debug/net9.0/TestApp.AssemblyInfo.cs
+/Users/akashramjeevanandham/Desktop/exams/csharp/TestApp/obj/Debug/net9.0/TestApp.csproj.CoreCompileInputs.cache
+/Users/akashramjeevanandham/Desktop/exams/csharp/TestApp/obj/Debug/net9.0/TestApp.sourcelink.json
+/Users/akashramjeevanandham/Desktop/exams/csharp/TestApp/bin/Debug/net9.0/TestApp
+/Users/akashramjeevanandham/Desktop/exams/csharp/TestApp/bin/Debug/net9.0/TestApp.deps.json
+/Users/akashramjeevanandham/Desktop/exams/csharp/TestApp/bin/Debug/net9.0/TestApp.runtimeconfig.json
+/Users/akashramjeevanandham/Desktop/exams/csharp/TestApp/bin/Debug/net9.0/TestApp.dll
+/Users/akashramjeevanandham/Desktop/exams/csharp/TestApp/bin/Debug/net9.0/TestApp.pdb
+/Users/akashramjeevanandham/Desktop/exams/csharp/TestApp/obj/Debug/net9.0/TestApp.dll
+/Users/akashramjeevanandham/Desktop/exams/csharp/TestApp/obj/Debug/net9.0/refint/TestApp.dll
+/Users/akashramjeevanandham/Desktop/exams/csharp/TestApp/obj/Debug/net9.0/TestApp.pdb
+/Users/akashramjeevanandham/Desktop/exams/csharp/TestApp/obj/Debug/net9.0/TestApp.genruntimeconfig.cache
+/Users/akashramjeevanandham/Desktop/exams/csharp/TestApp/obj/Debug/net9.0/ref/TestApp.dll
